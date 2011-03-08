@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 
-print "What is your name?\n";
+print "What is your name, mahfugguh?\n";
 my $fname = <STDIN>;
 chomp $fname;
 
